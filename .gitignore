@@ -1,3 +1,9 @@
 data/desikan_fc_all.mat
 data/HCP_cortical_DesikanAtlas.mat
 testing_notebook.ipynb
+ddpm_model.pt
+models/ddpm_mnist_raw.pt
+models/ddpm_test_tanh_dff.pt
+models/ddpm_test_tanh_end.pt
+models/raw_model_no_transf.pt
+models/test.pt
